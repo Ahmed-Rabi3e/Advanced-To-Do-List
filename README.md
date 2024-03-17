@@ -1,14 +1,16 @@
 
 # Advanced To Do List with ( React + TypeScript + Tailwind + Vite )
 
-  <img src="/" align="right" width="25%"/>
+  <img src="https://github.com/Ahmed-Rabi3e/Advanced-To-Do-List/blob/main/public/Advannced-To-Do-List.png" align="center" width="100%"/>
+
+  
 Overview
 This front-end project aims to create a responsive web application using React.js to provide users with a user-friendly interface for accessing various features and functionalities. The project leverages modern web development technologies to deliver an engaging and interactive user experience.
 
 # Features
 Responsive Design: Ensure responsiveness across different devices and screen sizes to enhance accessibility.
 
-Interactive Components: Incorporate interactive components such as forms, buttons, and modals to enhance user engagement.
+Interactive Components: Incorporate interactive components such as forms, buttons, and models to enhance user engagement.
 
 Data Visualization: Utilize data visualization libraries or custom components to present data in an intuitive and visually appealing manner.
 
@@ -23,9 +25,9 @@ Testing: Conduct comprehensive testing using testing frameworks such as Jest and
 # Technologies Used
 React.js: Front-end JavaScript library for building user interfaces.
 
-Tailwid CSS: styling the web application.
+Tailwind CSS: styling the web application.
 
-Typescript: make it more dynamic .
+Typescript: make it more dynamic.
 
 # Installation
 1. Clone the repo
