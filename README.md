@@ -1,8 +1,8 @@
 
 # Advanced To Do List with ( React + TypeScript + Tailwind + Vite )
 
-  <img src="https://github.com/Ahmed-Rabi3e/Advanced-To-Do-List/blob/main/public/Advannced-To-Do-List.png" align="center" width="100%"/>
-
+  <img src="/public/Screenshot%201.png" align="center" width="100%"/>
+  <img src="/public/Screenshot%201.png" align="center" width="100%"/>
   
 Overview
 This front-end project aims to create a responsive web application using React.js to provide users with a user-friendly interface for accessing various features and functionalities. The project leverages modern web development technologies to deliver an engaging and interactive user experience.
